@@ -125,3 +125,6 @@ Execute the program
 
 ![Screenshot 2023-11-21 221108](https://github.com/sreenithi23/ODD2023-WT-Ex-03-Timetable/assets/147017600/d93aa577-89a1-40fa-b852-ba35d37eb99e)
 
+## Result:
+The program for implementing timetable is excuted successfully.
+
